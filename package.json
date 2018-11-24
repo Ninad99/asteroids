@@ -1,0 +1,14 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "A recreation of the beloved game 'Asteroids' (1979) in JavaScript",
+  "main": "game.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Ninad Subba",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}

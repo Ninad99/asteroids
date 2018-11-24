@@ -1,0 +1,32 @@
+body{
+  background: #FAFAFA;
+}
+
+#navbar{
+  background: #273469;
+}
+
+#navbar-brand{
+  color: #FAFAFA;
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.5rem;
+}
+
+.nav-link{
+  color: #FAFAFA;
+}
+
+.nav-link:hover{
+  color: #E4D9FF;
+}
+
+#logo{
+  font-family: 'Pacifico', cursive;
+  color: #F4D35E;
+  cursor: pointer;
+}
+
+#logo:hover{
+  color: #FA9F42;
+  cursor: pointer;
+}
